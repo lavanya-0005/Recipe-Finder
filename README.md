@@ -4,7 +4,7 @@ A responsive and user-friendly web application designed to help users search and
 
 ## 🌐 Live Demo
 
-🚀 **[View Live Application](https://recipe-finder-main-umber.vercel.app/x)**
+🚀 **[View Live Application](https://recipe-finder-main-umber.vercel.app/)**
 
 ---
 
@@ -73,7 +73,7 @@ A video demonstration of the Recipe Finder application is available to showcase 
 
 ## 🔗 Project Links
 
-🌐 **[Live Demo](https://recipe-finder-main-umber.vercel.app/x)**
+🌐 **[Live Demo](https://recipe-finder-main-umber.vercel.app/)**
 
 💻 **[View Source Code](https://github.com/lavanya-0005/Recipe-Finder)**
 
