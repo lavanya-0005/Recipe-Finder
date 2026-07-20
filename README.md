@@ -90,6 +90,13 @@ A video demonstration of the Recipe Finder application is available to showcase 
 
 ---
 
+## 🎥 Project Demonstration
+
+Watch the complete demonstration of the Recipe Finder application to explore its functionality, user interface, and overall user experience.
+
+▶️ **[Watch Project Demo Video](https://drive.google.com/file/d/14VKiem5yn3AJiL_F0FBnUuFj0fHagQd2/view?usp=sharing)**
+
+The demo video is also available directly in this repository.
 ## 👩‍💻 Author
 
 ### Lavanya Balaga
